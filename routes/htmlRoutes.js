@@ -1,6 +1,6 @@
 const path = require("path");
 
-// Set up HTML route
+// Set up HTML routes
 module.exports = (app) => {
     
     // GET /notes will return the notes.html file
