@@ -32,7 +32,7 @@ However, if a user wants to use their CLI to run the application, they will be r
 This process was designed using starter code for the frontend of the application, with all backend files needing to be developed.
 
 ## Deployed Application on Heroku
-![Note Taker](https://thawing-ridge-10789.herokuapp.com/)
+https://thawing-ridge-10789.herokuapp.com/
 
 ## Contributing
 
